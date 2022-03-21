@@ -1,2 +1,0 @@
-# uReviews
-Software Engineering Project
